@@ -1,0 +1,36 @@
+.popular {
+  margin: 80px 0;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* .popular h2 {
+  margin: 80px 0 20px;
+}
+
+.popular hr {
+  width: 200px;
+} */
+
+.head {
+  text-align: center;
+  margin: 0 0 40px;
+}
+
+.head hr {
+  margin: auto;
+  width: 200px;
+  font-size: 32px;
+  height: 4px;
+  border-radius: 20px;
+  background-color: #252525;
+}
+
+.head h2 {
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}

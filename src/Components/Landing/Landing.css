@@ -1,0 +1,49 @@
+.landing {
+  background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+}
+
+.landing .container {
+  display: flex;
+  height: 100vh;
+  padding: 32px 0;
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+}
+
+.left p {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.right img {
+  width: 100%;
+}
+
+.left img {
+  width: 70px;
+}
+
+.left button img {
+  width: 12px;
+}
+
+.left button {
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius: 35px;
+  background: #ff4141;
+  color: white;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+h3 {
+  text-transform: uppercase;
+}

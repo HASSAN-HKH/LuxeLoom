@@ -1,0 +1,22 @@
+.container-cart section {
+  margin: 40px 0 80px;
+}
+
+.check {
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  background: #ff4141;
+  color: white;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.check:hover {
+  background: #ea4545;
+}
+
+.check:active {
+  background: #ea4545 !important;
+}
